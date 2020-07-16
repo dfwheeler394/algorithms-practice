@@ -1,1 +1,1 @@
-all hail the algorithsm. ruby edition.
+all hail the algorithms. ruby edition.
